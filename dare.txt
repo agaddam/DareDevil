@@ -6,4 +6,8 @@ johnny baap
 
 edited in git…
 
+<<<<<<< HEAD
 again
+=======
+edited in github....
+>>>>>>> bda96ea03049cb12d0d6f2dbca9b6bad10313a86
