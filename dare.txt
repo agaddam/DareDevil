@@ -1,11 +1,8 @@
-hagjhaGSJasjA
 
-hey hey hey
+public class Robin {
 
-johnny baap
+public static void main(String[] args){
 
-edited in git…
-
-phir se edited…
-
-edited in github
+  system.out.println("Robin says hi to bruce....");
+  }
+}
